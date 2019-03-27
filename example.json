@@ -1,0 +1,20 @@
+{
+  "name": "example.json",
+  "version": "0.0.1",
+  "array": ["This", "is", "a", "list/array."],
+  "object_array": [
+    {
+      "text": "Arrays can contain objects, too",
+      "subtext": "these are useful"
+    },
+    {
+      "text": "Arrays can contain objects, too",
+      "subtext": "these are useful"
+    }
+  ],
+  "sub_object_example": {
+    "title": "This is a sub-object",
+    "nesting": {
+      "title": "These can continue nesting."
+    }
+  }

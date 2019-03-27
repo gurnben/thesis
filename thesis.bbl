@@ -1,0 +1,98 @@
+\begin{thebibliography}{10}
+
+\bibitem{angular}
+{Angular} homepage.
+\newblock \url{https://angular.io/}.
+\newblock Accessed: 2019-03-06.
+
+\bibitem{express}
+{Express} homepage.
+\newblock \url{https://expressjs.com/}.
+\newblock Accessed: 2019-03-06.
+
+\bibitem{json}
+{JSON} homepage.
+\newblock \url{https://www.json.org/}.
+\newblock Accessed: 2019-03-06.
+
+\bibitem{mongo}
+{MongoDB} homepage.
+\newblock \url{https://www.mongodb.com/}.
+\newblock Accessed: 2019-03-06.
+
+\bibitem{node}
+{Node.js} homepage.
+\newblock \url{https://nodejs.org/en/}.
+\newblock Accessed: 2019-03-06.
+
+\bibitem{npm}
+{NPM} about.
+\newblock \url{https://docs.npmjs.com/about-npm/}.
+\newblock Accessed: 2019-03-06.
+
+\bibitem{socket}
+{Socket.io} homepage.
+\newblock \url{https://socket.io/}.
+\newblock Accessed: 2019-03-06.
+
+\bibitem{typescript}
+{TypeScript} homepage.
+\newblock \url{https://www.typescriptlang.org/}.
+\newblock Accessed: 2019-03-06.
+
+\bibitem{d3}
+Michael Bostock, Vadim Ogievetsky, and Jeffrey Heer.
+\newblock D3 data-driven documents.
+\newblock {\em IEEE Transactions on Visualization and Computer Graphics},
+  17(12):2301--2309, December 2011.
+
+\bibitem{aesthetic}
+N.~Cawthon and A.~V. Moere.
+\newblock The effect of aesthetic on the usability of data visualization.
+\newblock In {\em 2007 11th International Conference Information Visualization
+  (IV '07)}, pages 637--648, July 2007.
+
+\bibitem{biojs}
+John Gómez, Leyla García-Castro, Gustavo A~Salazar, José Villaveces, Swanand
+  Gore, Alexander Garcia, Maria J~Martín, Guillaume Launay, Rafael Alcántara,
+  Noemi Del Toro~Ayllón, Marine Sivade, Sandra Orchard, Sameer Velankar,
+  Henning Hermjakob, Chenggong Zong, Peipei Ping, Manuel Corpas, and Rafael
+  C~Jiménez.
+\newblock Biojs: An open source javascript framework for biological data
+  visualization.
+\newblock {\em Bioinformatics (Oxford, England)}, 29, 02 2013.
+
+\bibitem{gisvis}
+Bo~Huang, Bin Jiang, and Hui Lin.
+\newblock An integration of gis, virtual reality and the internet for
+  visualization, analysis and exploration of spatial data.
+\newblock {\em International Journal of Geographical Information Science},
+  15:439--456, 07 2001.
+
+\bibitem{smartbuildings}
+Kun Ma and Runyuan Sun.
+\newblock Introducing websocket-based real-time monitoring system for remote
+  intelligent buildings.
+\newblock {\em International Journal of Distributed Sensor Networks},
+  2013:1--10, 12 2013.
+
+\bibitem{igv}
+Helga Thorvaldsdóttir, James~T. Robinson, and Jill~P. Mesirov.
+\newblock {Integrative Genomics Viewer (IGV): high-performance genomics data
+  visualization and exploration}.
+\newblock {\em Briefings in Bioinformatics}, 14(2):178--192, 04 2012.
+
+\bibitem{remotevis}
+A.~Wessels, M.~Purvis, J.~Jackson, and S.~Rahman.
+\newblock Remote data visualization through websockets.
+\newblock In {\em 2011 Eighth International Conference on Information
+  Technology: New Generations}, pages 1050--1051, April 2011.
+
+\bibitem{neuro}
+Dylan Wood, Margaret King, Drew Landis, William Courtney, Runtang Wang, Ross
+  Kelly, Jessica Turner, and Vince Calhoun.
+\newblock Harnessing modern web application technology to create intuitive and
+  efficient data visualization and sharing tools.
+\newblock {\em Frontiers in neuroinformatics}, 8:71, 08 2014.
+
+\end{thebibliography}

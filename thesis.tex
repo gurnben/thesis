@@ -1,0 +1,108 @@
+\documentclass[12pt]{asu}
+%\usepackage[dvips]{graphics}
+%\usepackage[pdftex]{graphicx}
+\usepackage{graphicx}
+%\usepackage[T1]{fontenc}
+\usepackage{setspace}
+\usepackage{caption}
+\usepackage[numbers]{natbib}
+\usepackage{amsmath}
+\usepackage{hyperref}
+\usepackage{longtable}
+\usepackage{tabularx}
+\usepackage{rotating}
+\usepackage[tmargin=1in,bmargin=1in,lmargin=1.25in,rmargin=1in]{geometry}
+\usepackage{listings}
+\lstset{language=php,breaklines=true,frame=single}
+\captionsetup[figure]{labelfont=it}
+\DeclareMathOperator*{\argmin}{arg\,min}
+%\captionsetup[table]{justification=justified,singlelinecheck=false}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+
+\title{Developing an Extendable Web-Based Architecture for Honey Bee Data Visualization}
+\degree{MASTER OF SCIENCE}
+\degreeabbrev{M.S.}
+\bachelordegree{B.S., Appalachian State University}
+\department{Computer Science}
+\gradmonth{May}
+\gradyear{2019}
+\author{Gurney B. Buchanan}
+\authorcaps{GURNEY B. BUCHANAN}
+\thesischair{Rahman Tashakkori}
+\thesismemberone{James Fenwick}
+\thesismembertwo{Baset Hamza}
+\deptchair{Rahman Tashakkori}
+\dean{Neva J. Specht, Ph.D.}
+
+%\widowpenalty10000
+%\clubpenalty10000
+
+\begin{document}
+	\begin{preliminary}
+		\maketitle
+		\makeapproval
+		\makecopyright
+		\addcontentsline{toc}{chapter}{Abstract}
+		Over the past 10 years, a paradigm shift has occurred in the field of web development as websites became web applications.   Although hard to define, web applications usually refer to sites with a focus on providing responsive experiences that incorporate more complex and dynamic functionality.  This shift in complexity is accompanied by a shift in web technologies, as traditional LAMP stack (Linux, Apache, MySQL, and PHP) websites are replaced by JavaScript-based web applications built upon new technologies such as the MEAN stack (MongoDB, ExpressJS, Angular, and Node.js).  As these new technologies become widely accepted, the need for a general and adaptable architecture for web-based dynamic data visualization using JavaScript has grown.  This thesis details such an architecture. Our architecture seeks to be extendable, flexible, and largely platform agnostic, however, it is specifically designed to leverage new web paradigms such as WebSockets and full stack JavaScript web application frameworks.  As a proof of concept, we have applied this architecture in a web application for the visualization of automatically ingested and analyzed honey bee hive data from the BeeMon project.  This web application presents our framework in a practical scenario and provides a basic implementation for others to extend and adapt to their specific needs.
+		\begin{abstract}
+		\end{abstract}
+		%\begin{acknowledgement}
+		%Acknowledgement goes here.
+		%\end{acknowledgement}
+		\tableofcontents
+		\listoftables
+		\listoffigures
+	\end{preliminary}
+
+	\newlinestretch{2}
+
+
+	\chapter[Introduction]{\centering Introduction}
+    	\input{intro} \label{intro}
+
+\chapter[Related Work]{\centering Related Work} \label{relwork}
+			\input{relwork} \label{relwork}
+
+	\chapter[Background]{\centering Background} \label{bkgrnd}
+				\section{Technical Background}
+				\input{bkgrnd_technical} \label{bkgrnd_technical}
+				\section{Application Background}
+				\input{bkgrnd_application} \label{bkgrnd_application}
+
+	\chapter[Methodology]{\centering Methodology} \label{methods}
+	\input{methods_intro} \label{methods_intro}
+		\section{Equations}
+		\input{methods_equations} \label{methods_equations}
+
+	\chapter[Results]{\centering Results} \label{results}
+	\input{results_intro} \label{results_intro}
+		\section{Figures}
+		\input{results_figures} \label{results_figures}
+		\section{Tables}
+		\input{results_tables} \label{results_tables}
+
+	\chapter[Conclusion and Future Work]{\centering Conclusion and Future Work} \label{concl_futwork}
+		\section{Conclusion}
+		\input{concl} \label{concl}
+		\section{Future Work}
+		\input{futwork} \label{futwork}
+
+	\newpage
+
+        \newlinestretch{1}
+	\addcontentsline{toc}{chapter}{Bibliography}
+        \bibliographystyle{plain}
+	\bibliography{biblio}
+
+	\appendix
+	\fontsize{11pt}{26pt}\selectfont
+
+	\chapter[Appendix]{\centering Appendix}
+		\input{otherstuff} \label{otherstuff}
+
+
+	\newpage
+	\addcontentsline{toc}{chapter}{Vita}
+		\input{vita}
+\end{document}
