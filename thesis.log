@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6980) (preloaded format=pdflatex 2019.3.27)  27 MAR 2019 10:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6980) (preloaded format=pdflatex 2019.3.27)  27 MAR 2019 11:03
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -343,6 +343,9 @@ File: lstlang2.sty 2019/02/27 1.8b listings language file
 
 LaTeX Warning: Label `relwork' multiply defined.
 
+
+LaTeX Warning: Label `objectives' multiply defined.
+
 )
 \openout1 = `thesis.aux'.
 
@@ -662,7 +665,7 @@ e default Node.js HTTP/HTTPS
  []
 
 [15]
-<images/Thesis_JSON.png, id=249, 417.56pt x 420.57124pt>
+<images/Thesis_JSON.png, id=289, 417.56pt x 420.57124pt>
 File: images/Thesis_JSON.png Graphic file (type png)
 <use images/Thesis_JSON.png>
 Package pdftex.def Info: images/Thesis_JSON.png  used on input line 19.
@@ -690,61 +693,89 @@ Overfull \hbox (4.26471pt too wide) in paragraph at lines 32--32
 n be immediately accessed
  []
 
-) [18]
+) (bkgrnd_application.tex
+Overfull \hbox (6.49245pt too wide) in paragraph at lines 5--5
+\OT1/cmr/m/n/12 understand the motivations for this project, the reader should 
+have a general understanding
+ []
+
+[18]) [19]
 Chapter 4.
-(methods_intro.tex) (methods_equations.tex) [19
+(objectives.tex [20
 
 ]
+Overfull \hbox (27.05473pt too wide) in paragraph at lines 9--9
+\OT1/cmr/m/n/12 visualization as possible, without sacrificing responsiveness a
+nd fluidity in the live visualization.
+ []
+
+
+Overfull \hbox (3.84665pt too wide) in paragraph at lines 9--9
+\OT1/cmr/m/n/12 Recall our earlier example which discussed a chart showing one 
+thousand points aggregated
+ []
+
+[21] [22] [23] [24]
+Overfull \hbox (20.78813pt too wide) in paragraph at lines 24--24
+\OT1/cmr/m/n/12 architecture for generalized web-based data visualization shoul
+d be charting package/platform
+ []
+
+[25]) [26]
 Chapter 5.
+(methods_intro.tex) (methods_equations.tex) [27
+
+]
+Chapter 6.
 (results_intro.tex) (results_figures.tex
-<images/scatter.png, id=290, 578.16pt x 433.62pt>
+<images/scatter.png, id=384, 578.16pt x 433.62pt>
 File: images/scatter.png Graphic file (type png)
 <use images/scatter.png>
 Package pdftex.def Info: images/scatter.png  used on input line 9.
 (pdftex.def)             Requested size: 289.07999pt x 216.80946pt.
-) (results_tables.tex) [20
+) (results_tables.tex) [28
 
-] [21 <./images/scatter.png>]
-Chapter 6.
-(concl.tex) (futwork.tex) [22
+] [29 <./images/scatter.png>]
+Chapter 7.
+(concl.tex) (futwork.tex) [30
 
-] (thesis.bbl
-Underfull \hbox (badness 2205) in paragraph at lines 80--84
+] (thesis.bbl [31
+
+]
+Underfull \hbox (badness 2205) in paragraph at lines 115--119
 \OT1/cmr/m/n/12 Genomics Viewer (IGV): high-performance genomics data visualiza
 tion and
  []
 
-[23
-
-]) [24]
+) [32]
 Appendix A.
-(otherstuff.tex) [25
+(otherstuff.tex) [33
 
 ] (vita.tex)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
- [26
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 111.
+ [34
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 111.
  (thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 106.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 106.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 111.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 111.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: A1FC539A33D43BEB02B32C3F7DABC0E1;1266.
+(rerunfilecheck)             Checksum: 45502AB1EEABF5CD0D536C68089DBF97;1792.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 106.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 111.
  ) 
 Here is how much of TeX's memory you used:
- 9430 strings out of 494865
- 139584 string characters out of 3178197
- 502087 words of memory out of 3000000
- 12856 multiletter control sequences out of 15000+200000
+ 9490 strings out of 494865
+ 140429 string characters out of 3178197
+ 503087 words of memory out of 3000000
+ 12887 multiletter control sequences out of 15000+200000
  10611 words of font info for 38 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 36i,11n,49p,2310b,473s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,11n,49p,2310b,483s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{\\par\040} has been referenced but does not exist
 , replaced by a fixed one
 
@@ -761,9 +792,9 @@ fb></home/gurnben/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.p
 fb></home/gurnben/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti12.
 pfb></home/gurnben/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt12
 .pfb>
-Output written on thesis.pdf (34 pages, 256046 bytes).
+Output written on thesis.pdf (42 pages, 281578 bytes).
 PDF statistics:
- 391 PDF objects out of 1000 (max. 8388607)
- 83 named destinations out of 1000 (max. 500000)
- 195 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 497 PDF objects out of 1000 (max. 8388607)
+ 106 named destinations out of 1000 (max. 500000)
+ 259 words of extra memory for PDF output out of 10000 (max. 10000000)
 

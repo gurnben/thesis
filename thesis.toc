@@ -10,14 +10,22 @@
 \contentsline {subsection}{\numberline {3.1.5}Socket.io & WebSockets}{17}{subsection.3.1.5}% 
 \contentsline {subsection}{\numberline {3.1.6}Angular}{17}{subsection.3.1.6}% 
 \contentsline {subsection}{\numberline {3.1.7}MongoDB}{18}{subsection.3.1.7}% 
-\contentsline {chapter}{\numberline {4}Methodology}{19}{chapter.4}% 
-\contentsline {section}{\numberline {4.1}Equations}{19}{section.4.1}% 
-\contentsline {chapter}{\numberline {5}Results}{20}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}Figures}{20}{section.5.1}% 
-\contentsline {section}{\numberline {5.2}Tables}{20}{section.5.2}% 
-\contentsline {chapter}{\numberline {6}Conclusion and Future Work}{22}{chapter.6}% 
-\contentsline {section}{\numberline {6.1}Conclusion}{22}{section.6.1}% 
-\contentsline {section}{\numberline {6.2}Future Work}{22}{section.6.2}% 
-\contentsline {chapter}{Bibliography}{23}{section.6.2}% 
-\contentsline {chapter}{\numberline {A}Appendix}{25}{appendix.A}% 
-\contentsline {chapter}{Vita}{26}{appendix.A}% 
+\contentsline {section}{\numberline {3.2}Application Background}{18}{section.3.2}% 
+\contentsline {chapter}{\numberline {4}Objectives}{20}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Data Scaling}{20}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}Data Sources}{22}{section.4.2}% 
+\contentsline {section}{\numberline {4.3}Data Transmission}{23}{section.4.3}% 
+\contentsline {section}{\numberline {4.4}Dataset Filtering and Security}{25}{section.4.4}% 
+\contentsline {section}{\numberline {4.5}Charting Package Agnosticism}{25}{section.4.5}% 
+\contentsline {section}{\numberline {4.6}Dataset Loading and Processing}{26}{section.4.6}% 
+\contentsline {chapter}{\numberline {5}Methodology}{27}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Equations}{27}{section.5.1}% 
+\contentsline {chapter}{\numberline {6}Results}{28}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Figures}{28}{section.6.1}% 
+\contentsline {section}{\numberline {6.2}Tables}{28}{section.6.2}% 
+\contentsline {chapter}{\numberline {7}Conclusion and Future Work}{30}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}Conclusion}{30}{section.7.1}% 
+\contentsline {section}{\numberline {7.2}Future Work}{30}{section.7.2}% 
+\contentsline {chapter}{Bibliography}{31}{section.7.2}% 
+\contentsline {chapter}{\numberline {A}Appendix}{33}{appendix.A}% 
+\contentsline {chapter}{Vita}{34}{appendix.A}% 

@@ -10,14 +10,22 @@
 \BOOKMARK [2][-]{subsection.3.1.5}{Socket.io \040WebSockets}{section.3.1}% 10
 \BOOKMARK [2][-]{subsection.3.1.6}{Angular}{section.3.1}% 11
 \BOOKMARK [2][-]{subsection.3.1.7}{MongoDB}{section.3.1}% 12
-\BOOKMARK [0][-]{chapter.4}{Methodology}{}% 13
-\BOOKMARK [1][-]{section.4.1}{Equations}{chapter.4}% 14
-\BOOKMARK [0][-]{chapter.5}{Results}{}% 15
-\BOOKMARK [1][-]{section.5.1}{Figures}{chapter.5}% 16
-\BOOKMARK [1][-]{section.5.2}{Tables}{chapter.5}% 17
-\BOOKMARK [0][-]{chapter.6}{Conclusion and Future Work}{}% 18
-\BOOKMARK [1][-]{section.6.1}{Conclusion}{chapter.6}% 19
-\BOOKMARK [1][-]{section.6.2}{Future Work}{chapter.6}% 20
-\BOOKMARK [0][-]{section.6.2}{Bibliography}{}% 21
-\BOOKMARK [0][-]{appendix.A}{Appendix}{}% 22
-\BOOKMARK [0][-]{appendix.A}{Vita}{}% 23
+\BOOKMARK [1][-]{section.3.2}{Application Background}{chapter.3}% 13
+\BOOKMARK [0][-]{chapter.4}{Objectives}{}% 14
+\BOOKMARK [1][-]{section.4.1}{Data Scaling}{chapter.4}% 15
+\BOOKMARK [1][-]{section.4.2}{Data Sources}{chapter.4}% 16
+\BOOKMARK [1][-]{section.4.3}{Data Transmission}{chapter.4}% 17
+\BOOKMARK [1][-]{section.4.4}{Dataset Filtering and Security}{chapter.4}% 18
+\BOOKMARK [1][-]{section.4.5}{Charting Package Agnosticism}{chapter.4}% 19
+\BOOKMARK [1][-]{section.4.6}{Dataset Loading and Processing}{chapter.4}% 20
+\BOOKMARK [0][-]{chapter.5}{Methodology}{}% 21
+\BOOKMARK [1][-]{section.5.1}{Equations}{chapter.5}% 22
+\BOOKMARK [0][-]{chapter.6}{Results}{}% 23
+\BOOKMARK [1][-]{section.6.1}{Figures}{chapter.6}% 24
+\BOOKMARK [1][-]{section.6.2}{Tables}{chapter.6}% 25
+\BOOKMARK [0][-]{chapter.7}{Conclusion and Future Work}{}% 26
+\BOOKMARK [1][-]{section.7.1}{Conclusion}{chapter.7}% 27
+\BOOKMARK [1][-]{section.7.2}{Future Work}{chapter.7}% 28
+\BOOKMARK [0][-]{section.7.2}{Bibliography}{}% 29
+\BOOKMARK [0][-]{appendix.A}{Appendix}{}% 30
+\BOOKMARK [0][-]{appendix.A}{Vita}{}% 31

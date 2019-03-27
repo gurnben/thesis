@@ -5,10 +5,35 @@
 \newblock \url{https://angular.io/}.
 \newblock Accessed: 2019-03-06.
 
+\bibitem{bokehjs}
+{BokehJS} homepage.
+\newblock \url{https://bokeh.pydata.org/en/latest/docs/dev_guide/bokehjs.html}.
+\newblock Accessed: 2019-03-07.
+
+\bibitem{c3js}
+{C3.js} homepage.
+\newblock \url{https://c3js.org/}.
+\newblock Accessed: 2019-03-07.
+
+\bibitem{chartjs}
+{Chart.js} homepage.
+\newblock \url{https://www.chartjs.org/}.
+\newblock Accessed: 2019-03-07.
+
+\bibitem{d3homepage}
+{D3} homepage.
+\newblock \url{https://d3js.org/}.
+\newblock Accessed: 2019-03-07.
+
 \bibitem{express}
 {Express} homepage.
 \newblock \url{https://expressjs.com/}.
 \newblock Accessed: 2019-03-06.
+
+\bibitem{highcharts}
+{HighCharts} homepage.
+\newblock \url{https://www.highcharts.com/}.
+\newblock Accessed: 2019-03-07.
 
 \bibitem{json}
 {JSON} homepage.
@@ -52,6 +77,11 @@ N.~Cawthon and A.~V. Moere.
 \newblock In {\em 2007 11th International Conference Information Visualization
   (IV '07)}, pages 637--648, July 2007.
 
+\bibitem{aboutface}
+Alan Cooper, Robert Reimann, David Cronin, and Christopher Noessel.
+\newblock {\em About Face: The Essentials of Interaction Design}.
+\newblock Wiley Publishing, 4th edition, 2014.
+
 \bibitem{biojs}
 John Gómez, Leyla García-Castro, Gustavo A~Salazar, José Villaveces, Swanand
   Gore, Alexander Garcia, Maria J~Martín, Guillaume Launay, Rafael Alcántara,
@@ -75,6 +105,11 @@ Kun Ma and Runyuan Sun.
   intelligent buildings.
 \newblock {\em International Journal of Distributed Sensor Networks},
   2013:1--10, 12 2013.
+
+\bibitem{doet}
+Donald~A. Norman.
+\newblock {\em The Design of Everyday Things}.
+\newblock Basic Books, Inc., New York, NY, USA, 2002.
 
 \bibitem{igv}
 Helga Thorvaldsdóttir, James~T. Robinson, and Jill~P. Mesirov.
