@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6980) (preloaded format=pdflatex 2019.3.27)  27 MAR 2019 14:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.4.9)  15 APR 2019 11:07
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -455,27 +455,16 @@ LaTeX Info: Redefining \nameref on input line 41.
 \c@lstlisting=\count139
 [1
 
-{/home/gurnben/.miktex/texmfs/data/pdftex/config/pdftex.map}]
-! Undefined control sequence.
-\makeapproval ...{2.7in}} \\ {\@thesismemberthree 
-                                                  } \\ Member, Thesis Commit...
-l.44 		\makeapproval
-                    
-? 
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--44
-
- []
-
-[2]
+{/home/gurnben/.miktex/texmfs/data/pdftex/config/pdftex.map}] [2]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 45.
- (/home/gurnben/.miktex/texmfs/install/tex/latex/base/omscmr.fd
+
+(/home/gurnben/.miktex/texmfs/install/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 45.
- [3]
-[4] (thesis.toc
+ [3] [4]
+(thesis.toc
 ! Argument of \contentsline has an extra }.
 <inserted text> 
                 \par 
@@ -648,7 +637,7 @@ e default Node.js HTTP/HTTPS
  []
 
 [15]
-<images/Thesis_JSON.png, id=348, 417.56pt x 420.57124pt>
+<images/Thesis_JSON.png, id=350, 417.56pt x 420.57124pt>
 File: images/Thesis_JSON.png Graphic file (type png)
 <use images/Thesis_JSON.png>
 Package pdftex.def Info: images/Thesis_JSON.png  used on input line 19.
@@ -713,7 +702,7 @@ ecture for web-based interactive
  []
 
 ) (methods_server_side.tex
-<images/ServerSideClassDiagram.png, id=430, 795.97375pt x 744.7825pt>
+<images/ServerSideClassDiagram.png, id=432, 795.97375pt x 744.7825pt>
 File: images/ServerSideClassDiagram.png Graphic file (type png)
 <use images/ServerSideClassDiagram.png>
 Package pdftex.def Info: images/ServerSideClassDiagram.png  used on input line 
@@ -746,7 +735,7 @@ es named configuration
  []
 
 ) (methods_data_transmission.tex
-<images/ServerClientHandshake.png, id=458, 807.015pt x 986.68625pt>
+<images/ServerClientHandshake.png, id=460, 807.015pt x 986.68625pt>
 File: images/ServerClientHandshake.png Graphic file (type png)
 <use images/ServerClientHandshake.png>
 Package pdftex.def Info: images/ServerClientHandshake.png  used on input line 7
@@ -759,7 +748,7 @@ Overfull \hbox (22.81172pt too wide) in paragraph at lines 6--6
  []
 
 [36]
-<images/ClientSide.png, id=478, 1128.215pt x 725.71124pt>
+<images/ClientSide.png, id=480, 1128.215pt x 725.71124pt>
 File: images/ClientSide.png Graphic file (type png)
 <use images/ClientSide.png>
 Package pdftex.def Info: images/ClientSide.png  used on input line 10.
@@ -770,13 +759,13 @@ Overfull \hbox (17.73558pt too wide) in paragraph at lines 19--19
 ide framework. Angular's
  []
 
-<images/ClientDatasetRequestFlow.png, id=489, 807.015pt x 745.78625pt>
+<images/ClientDatasetRequestFlow.png, id=491, 807.015pt x 745.78625pt>
 File: images/ClientDatasetRequestFlow.png Graphic file (type png)
 <use images/ClientDatasetRequestFlow.png>
 Package pdftex.def Info: images/ClientDatasetRequestFlow.png  used on input lin
 e 25.
 (pdftex.def)             Requested size: 289.07999pt x 267.15141pt.
-<images/ClientChartUpdateFlow.png, id=490, 807.015pt x 745.78625pt>
+<images/ClientChartUpdateFlow.png, id=492, 807.015pt x 745.78625pt>
 File: images/ClientChartUpdateFlow.png Graphic file (type png)
 <use images/ClientChartUpdateFlow.png>
 Package pdftex.def Info: images/ClientChartUpdateFlow.png  used on input line 3
@@ -784,7 +773,7 @@ Package pdftex.def Info: images/ClientChartUpdateFlow.png  used on input line 3
 (pdftex.def)             Requested size: 289.07999pt x 267.15141pt.
 [39] [40 <./images/ClientDatasetRequestFlow.png> <./images/ClientChartUpdateFlo
 w.png>] [41]
-<images/ClientLifecycle.png, id=507, 807.015pt x 846.16125pt>
+<images/ClientLifecycle.png, id=509, 807.015pt x 846.16125pt>
 File: images/ClientLifecycle.png Graphic file (type png)
 <use images/ClientLifecycle.png>
 Package pdftex.def Info: images/ClientLifecycle.png  used on input line 45.
@@ -821,7 +810,7 @@ y and modularly swapped.
 ) [48] (thesis.bbl [49
 
 ]
-Underfull \hbox (badness 2205) in paragraph at lines 115--119
+Underfull \hbox (badness 2205) in paragraph at lines 122--126
 \OT1/cmr/m/n/12 Genomics Viewer (IGV): high-performance genomics data visualiza
 tion and
  []
@@ -850,13 +839,13 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 104.
  ) 
 Here is how much of TeX's memory you used:
- 9543 strings out of 494865
- 141881 string characters out of 3178197
- 503087 words of memory out of 3000000
- 12916 multiletter control sequences out of 15000+200000
+ 9547 strings out of 494864
+ 141954 string characters out of 3178184
+ 504087 words of memory out of 3000000
+ 12920 multiletter control sequences out of 15000+200000
  9990 words of font info for 36 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 36i,7n,40p,2310b,483s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,7n,40p,2310b,487s stack positions out of 5000i,500n,10000p,200000b,50000s
 pdfTeX warning (dest): name{\\par\040} has been referenced but does not exist
 , replaced by a fixed one
 
@@ -867,9 +856,9 @@ pdfTeX warning (dest): name{\\par\040} has been referenced but does not exist
 b></home/gurnben/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti12.p
 fb></home/gurnben/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt12.
 pfb>
-Output written on thesis.pdf (58 pages, 543193 bytes).
+Output written on thesis.pdf (58 pages, 544776 bytes).
 PDF statistics:
- 621 PDF objects out of 1000 (max. 8388607)
- 133 named destinations out of 1000 (max. 500000)
+ 623 PDF objects out of 1000 (max. 8388607)
+ 134 named destinations out of 1000 (max. 500000)
  372 words of extra memory for PDF output out of 10000 (max. 10000000)
 
