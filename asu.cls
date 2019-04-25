@@ -37,27 +37,51 @@
   {\cleardoublepage\pagenumbering{arabic}}
 
 \renewcommand{\maketitle}{
-   \begin{titlepage}
-   \vspace*{0.5in}
-   \begin{center}
-      {\@title} \\[25ex]
-      \newlinestretch{1}
-      A Thesis \\
-      \newlinestretch{1}
-      by \\
-      {\@authorcaps} \\[6ex]
-      Submitted to the Graduate School \\
-      \newlinestretch{1}
-      Appalachian State University \\
-      in partial fulfillment of the requirements for the degree of \\
-      {\@degree} \\[12ex]
-      {\@gradmonth} {\@gradyear} \\
-      Department of {\@department}
-   \end{center}
-   \setcounter{page}{1}
-   \end{titlepage}
-   \setcounter{page}{2}
+  \begin{titlepage}
+  \vspace*{0.5in}
+  \begin{center}
+     {\@title} \\[25ex]
+     \newlinestretch{1}
+     A Thesis \\
+     \newlinestretch{1}
+     by \\
+     {\@authorcaps} \\[6ex]
+     \vspace*{0.75in}
+     Submitted to the Graduate School \\
+     \newlinestretch{1}
+     Appalachian State University \\
+     in partial fulfillment of the requirements for the degree of \\
+     {\@degree} \\[12ex]
+     \vspace*{1in}
+     {\@gradmonth} {\@gradyear} \\
+     Department of {\@department}
+  \end{center}
+  \setcounter{page}{1}
+  \end{titlepage}
+  \setcounter{page}{2}
 }
+% \renewcommand{\maketitle}{
+%    \begin{titlepage}
+%    \vspace*{0.5in}
+%    \begin{center}
+%       {\@title} \\[25ex]
+%       \newlinestretch{1}
+%       A Thesis \\
+%       \newlinestretch{1}
+%       by \\
+%       {\@authorcaps} \\[6ex]
+%       Submitted to the Graduate School \\
+%       \newlinestretch{1}
+%       Appalachian State University \\
+%       in partial fulfillment of the requirements for the degree of \\
+%       {\@degree} \\[12ex]
+%       {\@gradmonth} {\@gradyear} \\
+%       Department of {\@department}
+%    \end{center}
+%    \setcounter{page}{1}
+%    \end{titlepage}
+%    \setcounter{page}{2}
+% }
 
 \newcommand{\makeapproval}{
    \thispagestyle{empty}
@@ -108,7 +132,7 @@
    \vspace*{0.5in}
    \begin{center}
       {\bf Abstract} \\[2ex]
-      
+
        {\@title}\\
                      \newlinestretch{2}
       {\@author}\\
@@ -175,4 +199,3 @@
 %\setlength{\marginparsep}{.125in}
 
 %\flushbottom
-

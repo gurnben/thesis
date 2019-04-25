@@ -9,8 +9,6 @@
 % toc file. Then you can pdflatex to generate a pdf with the correct TOC that
 % includes these entries.
 %
-
-\contentsline {chapter}{Abstract}{iv}
-\contentsline {chapter}{Acknowledgements}{vi}
-\contentsline {chapter}{List of Tables}{vii}
-\contentsline {chapter}{List of Figures}{viii}
+\contentsline {chapter}{Abstract}{iv}{}%
+\contentsline {chapter}{Acknowledgements}{v}{}%
+\contentsline {chapter}{List of Figures}{viii}{}%

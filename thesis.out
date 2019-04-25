@@ -1,42 +1,43 @@
-\BOOKMARK [0][-]{Doc-Start}{Abstract}{}% 1
-\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 2
-\BOOKMARK [0][-]{chapter.2}{Related Work}{}% 3
-\BOOKMARK [0][-]{chapter.3}{Background}{}% 4
-\BOOKMARK [1][-]{section.3.1}{Technical Background}{chapter.3}% 5
-\BOOKMARK [2][-]{subsection.3.1.1}{Full Stack Development}{section.3.1}% 6
-\BOOKMARK [2][-]{subsection.3.1.2}{Node.js}{section.3.1}% 7
-\BOOKMARK [2][-]{subsection.3.1.3}{Express}{section.3.1}% 8
-\BOOKMARK [2][-]{subsection.3.1.4}{JSON}{section.3.1}% 9
-\BOOKMARK [2][-]{subsection.3.1.5}{Socket.io \040WebSockets}{section.3.1}% 10
-\BOOKMARK [2][-]{subsection.3.1.6}{Angular}{section.3.1}% 11
-\BOOKMARK [2][-]{subsection.3.1.7}{MongoDB}{section.3.1}% 12
-\BOOKMARK [1][-]{section.3.2}{Application Background}{chapter.3}% 13
-\BOOKMARK [0][-]{chapter.4}{Objectives}{}% 14
-\BOOKMARK [1][-]{section.4.1}{Data Scaling}{chapter.4}% 15
-\BOOKMARK [1][-]{section.4.2}{Data Sources}{chapter.4}% 16
-\BOOKMARK [1][-]{section.4.3}{Data Transmission}{chapter.4}% 17
-\BOOKMARK [1][-]{section.4.4}{Dataset Filtering and Security}{chapter.4}% 18
-\BOOKMARK [1][-]{section.4.5}{Charting Package Agnosticism}{chapter.4}% 19
-\BOOKMARK [1][-]{section.4.6}{Dataset Loading and Processing}{chapter.4}% 20
-\BOOKMARK [0][-]{chapter.5}{Methodology}{}% 21
-\BOOKMARK [1][-]{section.5.1}{Server Side Architecture}{chapter.5}% 22
-\BOOKMARK [2][-]{subsection.5.1.1}{Datapaths}{section.5.1}% 23
-\BOOKMARK [2][-]{subsection.5.1.2}{Data Channels}{section.5.1}% 24
-\BOOKMARK [2][-]{subsection.5.1.3}{Configuration Files}{section.5.1}% 25
-\BOOKMARK [1][-]{section.5.2}{Data Transmission}{chapter.5}% 26
-\BOOKMARK [2][-]{subsection.5.2.1}{Server-Client Handshake}{section.5.2}% 27
-\BOOKMARK [1][-]{section.5.3}{Client Side Architecture}{chapter.5}% 28
-\BOOKMARK [2][-]{subsection.5.3.1}{Chart Components}{section.5.3}% 29
-\BOOKMARK [2][-]{subsection.5.3.2}{Dataset Request Flow}{section.5.3}% 30
-\BOOKMARK [2][-]{subsection.5.3.3}{Lifecycle Control}{section.5.3}% 31
-\BOOKMARK [0][-]{chapter.6}{Results}{}% 32
-\BOOKMARK [1][-]{section.6.1}{Server Side Extension}{chapter.6}% 33
-\BOOKMARK [2][-]{subsection.6.1.1}{Adding a Dataset}{section.6.1}% 34
-\BOOKMARK [2][-]{subsection.6.1.2}{Adding a Datapath}{section.6.1}% 35
-\BOOKMARK [2][-]{subsection.6.1.3}{New Data Channels/Sources}{section.6.1}% 36
-\BOOKMARK [1][-]{section.6.2}{Client Side Extension}{chapter.6}% 37
-\BOOKMARK [2][-]{subsection.6.2.1}{Adding a Chart}{section.6.2}% 38
-\BOOKMARK [2][-]{subsection.6.2.2}{Avoiding Missing Data}{section.6.2}% 39
-\BOOKMARK [2][-]{subsection.6.2.3}{Adding New Charting Libraries}{section.6.2}% 40
-\BOOKMARK [0][-]{subsection.6.2.3}{Bibliography}{}% 41
-\BOOKMARK [0][-]{chapter*.10}{Vita}{}% 42
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Related Work}{}% 2
+\BOOKMARK [0][-]{chapter.3}{Background}{}% 3
+\BOOKMARK [1][-]{section.3.1}{Technical Background}{chapter.3}% 4
+\BOOKMARK [2][-]{subsection.3.1.1}{Full Stack Development}{section.3.1}% 5
+\BOOKMARK [2][-]{subsection.3.1.2}{Node.js}{section.3.1}% 6
+\BOOKMARK [2][-]{subsection.3.1.3}{Express}{section.3.1}% 7
+\BOOKMARK [2][-]{subsection.3.1.4}{JSON}{section.3.1}% 8
+\BOOKMARK [2][-]{subsection.3.1.5}{Socket.io \040WebSockets}{section.3.1}% 9
+\BOOKMARK [2][-]{subsection.3.1.6}{Angular}{section.3.1}% 10
+\BOOKMARK [2][-]{subsection.3.1.7}{MongoDB}{section.3.1}% 11
+\BOOKMARK [1][-]{section.3.2}{Application Background}{chapter.3}% 12
+\BOOKMARK [0][-]{chapter.4}{Objectives}{}% 13
+\BOOKMARK [1][-]{section.4.1}{Data Scaling}{chapter.4}% 14
+\BOOKMARK [1][-]{section.4.2}{Data Sources}{chapter.4}% 15
+\BOOKMARK [1][-]{section.4.3}{Data Transmission}{chapter.4}% 16
+\BOOKMARK [1][-]{section.4.4}{Dataset Filtering and Security}{chapter.4}% 17
+\BOOKMARK [1][-]{section.4.5}{Charting Package Agnosticism}{chapter.4}% 18
+\BOOKMARK [1][-]{section.4.6}{Dataset Loading and Processing}{chapter.4}% 19
+\BOOKMARK [0][-]{chapter.5}{Methodology}{}% 20
+\BOOKMARK [1][-]{section.5.1}{Server Side Architecture}{chapter.5}% 21
+\BOOKMARK [2][-]{subsection.5.1.1}{Datapaths}{section.5.1}% 22
+\BOOKMARK [2][-]{subsection.5.1.2}{Data Channels}{section.5.1}% 23
+\BOOKMARK [2][-]{subsection.5.1.3}{Configuration Files}{section.5.1}% 24
+\BOOKMARK [1][-]{section.5.2}{Data Transmission}{chapter.5}% 25
+\BOOKMARK [2][-]{subsection.5.2.1}{Server-Client Handshake}{section.5.2}% 26
+\BOOKMARK [1][-]{section.5.3}{Client Side Architecture}{chapter.5}% 27
+\BOOKMARK [2][-]{subsection.5.3.1}{Chart Components}{section.5.3}% 28
+\BOOKMARK [2][-]{subsection.5.3.2}{Dataset Request Flow}{section.5.3}% 29
+\BOOKMARK [2][-]{subsection.5.3.3}{Lifecycle Control}{section.5.3}% 30
+\BOOKMARK [0][-]{chapter.6}{Results}{}% 31
+\BOOKMARK [1][-]{section.6.1}{BeeStream Application}{chapter.6}% 32
+\BOOKMARK [1][-]{section.6.2}{Server Side Extension}{chapter.6}% 33
+\BOOKMARK [2][-]{subsection.6.2.1}{Adding a Dataset}{section.6.2}% 34
+\BOOKMARK [2][-]{subsection.6.2.2}{Adding a Datapath}{section.6.2}% 35
+\BOOKMARK [2][-]{subsection.6.2.3}{New Data Channels/Sources}{section.6.2}% 36
+\BOOKMARK [1][-]{section.6.3}{Client Side Extension}{chapter.6}% 37
+\BOOKMARK [2][-]{subsection.6.3.1}{Adding a Chart}{section.6.3}% 38
+\BOOKMARK [2][-]{subsection.6.3.2}{Avoiding Missing Data}{section.6.3}% 39
+\BOOKMARK [2][-]{subsection.6.3.3}{Adding New Charting Libraries}{section.6.3}% 40
+\BOOKMARK [0][-]{chapter.7}{Summary and Future Work}{}% 41
+\BOOKMARK [0][-]{chapter.7}{Bibliography}{}% 42
+\BOOKMARK [0][-]{chapter*.13}{Vita}{}% 43

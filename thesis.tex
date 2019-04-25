@@ -11,7 +11,7 @@
 \usepackage{longtable}
 \usepackage{tabularx}
 \usepackage{rotating}
-\usepackage[tmargin=1in,bmargin=1in,lmargin=1.25in,rmargin=1in]{geometry}
+\usepackage[tmargin=1in,bmargin=1.25in,lmargin=1.25in,rmargin=1in]{geometry}
 \usepackage{listings}
 \lstset{language=php,breaklines=true,frame=single}
 \captionsetup[figure]{labelfont=it}
@@ -33,7 +33,9 @@
 \thesismembertwo{Dr. Baset Hamza}
 \thesismemberthree{Dr. James Fenwick}
 \deptchair{Dr. Rahman Tashakkori}
-\dean{Dr. Mike McKenzie}
+\dean{Dr. Michael McKenzie}
+
+\sloppy
 
 %\widowpenalty10000
 %\clubpenalty10000
@@ -43,13 +45,12 @@
 		\maketitle
 		\makeapproval
 		\makecopyright
-		\addcontentsline{toc}{chapter}{Abstract}
 		\begin{abstract}
 Over the past 10 years, a paradigm shift has occurred in the field of web development as websites became web applications.   Although hard to define, web applications usually refer to sites with a focus on providing responsive experiences that incorporate more complex and dynamic functionality.  This shift in complexity is accompanied by a shift in web technologies, as traditional LAMP stack (Linux, Apache, MySQL, and PHP) websites are replaced by JavaScript-based web applications built upon new technologies such as the MEAN stack (MongoDB, ExpressJS, Angular, and Node.js).  As these new technologies become widely accepted, the need for a general and adaptable architecture for web-based dynamic data visualization using JavaScript has grown.  This thesis details such an architecture. Our architecture seeks to be extendable, flexible, and largely platform agnostic, however, it is specifically designed to leverage new web paradigms such as WebSockets and full stack JavaScript web application frameworks.  As a proof of concept, we have applied this architecture in a web application for the visualization of automatically ingested and analyzed honey bee hive data from the BeeMon project.  This web application presents our framework in a practical scenario and provides a basic implementation for others to extend and adapt to their specific needs.
 		\end{abstract}
-		%\begin{acknowledgement}
-		%Acknowledgement goes here.
-		%\end{acknowledgement}
+		\begin{acknowledgement}
+		I would like to thank my mentor, Dr. Tashakkori for his help, support, guidence, and encouragement throughout my time at Appalachian State University.  Without his guidence, I would not be the person I am today.  I would like to thank my thesis committee members, Dr. Fenwick and Dr. Hamza, for their invaluable input on this thesis and their constant encouragement and leadership throughout the process.  I would like to thank all of my profesors at Appalachian State University for their encouragement and for equipping me to complete this thesis and succeed in Computer Science.  I would also like to thank the Department of Computer Science at Appalachian State University, the National Science Foundation, Lowe's Distinguished Professor Research Fund, and the Scholarships in Science, Technology, Engineering, and Mathematics (S-STEM) program for providing me the financial support and community of colleagues to grow with during my time at Appalachian State University.  I would like to thank my parents for their continued loving support throughout my years in college and for always being there to help when times get busy or rough!  Finally, I would like to thank the friends I've made throughout my years at Appalachian State University for their continued support, encouragement, and camaraderie.
+		\end{acknowledgement}
 		\tableofcontents
 		\listoffigures
 	\end{preliminary}
@@ -83,10 +84,15 @@ Over the past 10 years, a paradigm shift has occurred in the field of web develo
 
 	\chapter[Results]{\centering Results} \label{results}
 	\input{results_intro} \label{results_intro}
+		\section{BeeStream Application}
+		\input{results_application} \label{results_application}
 		\section{Server Side Extension}
 		\input{results_server} \label{results_server}
 		\section{Client Side Extension}
 		\input{results_client} \label{results_client}
+
+	\chapter[Summary and Future Work]{\centering Summary and Future Work} \label{concl}
+	\input{concl} \label{concl}
 
 	\newpage
 

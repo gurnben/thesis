@@ -5,6 +5,9 @@ Repeated entry---line 197 of file biblio.bib
  : @inproceedings{interaction
  :                           ,
 I'm skipping whatever remains of this entry
+Warning--to sort, need author or key in bokehjs
+Warning--to sort, need author or key in highcharts
+Warning--to sort, need author or key in d3homepage
 Warning--to sort, need author or key in node
 Warning--to sort, need author or key in npm
 Warning--to sort, need author or key in express
@@ -13,9 +16,6 @@ Warning--to sort, need author or key in socket
 Warning--to sort, need author or key in angular
 Warning--to sort, need author or key in typescript
 Warning--to sort, need author or key in mongo
-Warning--to sort, need author or key in d3homepage
 Warning--to sort, need author or key in chartjs
-Warning--to sort, need author or key in highcharts
 Warning--to sort, need author or key in c3js
-Warning--to sort, need author or key in bokehjs
 (There was 1 error message)

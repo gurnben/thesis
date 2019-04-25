@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.4.9)  16 APR 2019 09:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.4.9)  25 APR 2019 13:01
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -346,23 +346,26 @@ LaTeX Warning: Label `relwork' multiply defined.
 
 LaTeX Warning: Label `objectives' multiply defined.
 
+
+LaTeX Warning: Label `concl' multiply defined.
+
 )
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
  (/home/gurnben/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count132
@@ -400,7 +403,7 @@ Package: ltcaption 2018/08/26 v1.4-95 longtable captions (AR)
 Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \AtBeginShipoutBox=\box39
-Package hyperref Info: Link coloring OFF on input line 41.
+Package hyperref Info: Link coloring OFF on input line 43.
 
 (/home/gurnben/.miktex/texmfs/install/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -410,9 +413,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count138
 )
-LaTeX Info: Redefining \ref on input line 41.
-LaTeX Info: Redefining \pageref on input line 41.
-LaTeX Info: Redefining \nameref on input line 41.
+LaTeX Info: Redefining \ref on input line 43.
+LaTeX Info: Redefining \pageref on input line 43.
+LaTeX Info: Redefining \nameref on input line 43.
 (thesis.out) (thesis.out)
 \@outlinefile=\write3
 \openout3 = `thesis.out'.
@@ -427,11 +430,11 @@ LaTeX Info: Redefining \nameref on input line 41.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(90.3375pt, 451.68752pt, 72.26999pt)
-* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 632.3625pt, 90.3375pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=451.68752pt
-* \textheight=650.43001pt
+* \textheight=632.3625pt
 * \oddsidemargin=18.0675pt
 * \evensidemargin=18.0675pt
 * \topmargin=-37.0pt
@@ -456,204 +459,65 @@ LaTeX Info: Redefining \nameref on input line 41.
 [1
 
 {/home/gurnben/.miktex/texmfs/data/pdftex/config/pdftex.map}] [2]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 45.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 47.
 
 (/home/gurnben/.miktex/texmfs/install/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 45.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 47.
  [3] [4]
-(thesis.toc
-! Argument of \contentsline has an extra }.
-<inserted text> 
-                \par 
-l.14 \contentsline
-                   {chapter}{Acknowledgements}{vi}
-? 
-Runaway argument?
-! Paragraph ended before \contentsline was complete.
-<to be read again> 
-                   \par 
-l.14 \contentsline
-                   {chapter}{Acknowledgements}{vi}
-? 
-Runaway argument?
-{
-! Paragraph ended before \HyperDestNameFilter was complete.
-<to be read again> 
-                   \par 
-l.14 \contentsline
-                   {chapter}{Acknowledgements}{vi}
-? 
-! Extra }, or forgotten \endgroup.
-\Hy@pstringdef ...y@gtemp {\pdf@escapestring {#2}}
-                                                  \endgroup \let #1\Hy@gtemp 
-l.14 \contentsline
-                   {chapter}{Acknowledgements}{vi}
-? 
-! Argument of \contentsline has an extra }.
-<inserted text> 
-                \par 
-l.16 \contentsline
-                   {chapter}{List of Figures}{viii}
-? 
-Runaway argument?
-! Paragraph ended before \contentsline was complete.
-<to be read again> 
-                   \par 
-l.16 \contentsline
-                   {chapter}{List of Figures}{viii}
-? 
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.16 \contentsline
-                   {chapter}{List of Figures}{viii}
-? 
-Runaway argument?
-{
-! Paragraph ended before \HyperDestNameFilter was complete.
-<to be read again> 
-                   \par 
-l.16 \contentsline
-                   {chapter}{List of Figures}{viii}
-? 
-! Extra }, or forgotten \endgroup.
-\Hy@pstringdef ...y@gtemp {\pdf@escapestring {#2}}
-                                                  \endgroup \let #1\Hy@gtemp 
-l.16 \contentsline
-                   {chapter}{List of Figures}{viii}
-? 
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.17 ...ntsline {chapter}{Abstract}{iv}{Doc-Start}
-                                                  %
-? 
+[5] [6] (thesis.toc
 ! Misplaced alignment tab character &.
 <argument> ...ame }{\numberline {3.1.5}Socket.io &
                                                    WebSockets}\hyper@linkend 
-l.26 ...ket.io & WebSockets}{17}{subsection.3.1.5}
+l.23 ...ket.io & WebSockets}{18}{subsection.3.1.5}
                                                   %
 ? 
-[5
+[7
 
 ])
 \tf@toc=\write4
 \openout4 = `thesis.toc'.
 
- [6] (thesis.lof)
+ [8] (thesis.lof)
 \tf@lof=\write5
 \openout5 = `thesis.lof'.
 
- [7
+ [9
 
 ]
 Chapter 1.
-(intro.tex
-Overfull \hbox (11.32295pt too wide) in paragraph at lines 5--5
-\OT1/cmr/m/n/12 although hard to define, typically focus on providing responsiv
-e experiences that incorporate
- []
+(intro.tex [1
 
 
-Overfull \hbox (1.61842pt too wide) in paragraph at lines 5--5
-\OT1/cmr/m/n/12 focused tasks. These applications leveraged the newfound power 
-of the personal computer.
- []
-
-[1
-
-
-]
-Overfull \hbox (3.16296pt too wide) in paragraph at lines 6--6
-\OT1/cmr/m/n/12 revolution in web technologies. HTML (Hypertext Markup Language
-), a markup language
- []
-
-[2]
-Overfull \hbox (16.95438pt too wide) in paragraph at lines 7--7
-\OT1/cmr/m/n/12 targeted audience, they all aim to solve a common data visualiz
-ation problem. Unfortunately,
- []
-
-[3]
-Overfull \hbox (6.33337pt too wide) in paragraph at lines 9--9
+] [2] [3]
+Underfull \hbox (badness 1248) in paragraph at lines 9--9
 []\OT1/cmr/m/n/12 Our architecture for web-based data visualization focuses on 
-adaptability, flexibility,
- []
-
-
-Overfull \hbox (17.65483pt too wide) in paragraph at lines 9--9
-\OT1/cmr/m/n/12 will have different implementations, this structure prescribes 
-certain abstractions, inheritance
+adaptability,
  []
 
 [4]) [5]
 Chapter 2.
-(relwork.tex
-Overfull \hbox (19.48259pt too wide) in paragraph at lines 5--5
-\OT1/cmr/m/n/12 Client-side solutions are typically less demanding on the clien
-t's persistent internet connection
- []
+(relwork.tex [6
 
-[6
-
-]
-Overfull \hbox (24.36745pt too wide) in paragraph at lines 7--7
-[]\OT1/cmr/m/n/12 Wood et al. [[]] overviews a web-based system for sharing and
- visualizing neuroimaging
- []
-
-[7] [8]
-Overfull \hbox (17.32845pt too wide) in paragraph at lines 10--10
-\OT1/cmr/m/n/12 Their framework seems to provide a sufficient base for a cohere
-nt and extendable visualization
- []
-
-
-Overfull \hbox (14.78264pt too wide) in paragraph at lines 10--10
-\OT1/cmr/m/n/12 framework, meanwhile taking a hands-off approach and allowing o
-ther frameworks, packages,
- []
-
-[9] [10] [11]) [12]
+] [7] [8] [9] [10] [11]) [12] [13]
 Chapter 3.
 (bkgrnd_technical.tex
-Overfull \hbox (2.70638pt too wide) in paragraph at lines 5--5
+Underfull \hbox (badness 1436) in paragraph at lines 5--5
 \OT1/cmr/m/n/12 as well as some architectural decisions intended to leverage mo
-dern framework capabilities. 
+dern framework
  []
 
+[14
 
-Overfull \hbox (9.12112pt too wide) in paragraph at lines 8--8
-\OT1/cmr/m/n/12 elements for the database interaction, server, and client. In f
-act, the goal of this architecture
- []
-
-[13
-
-] [14]
-Overfull \hbox (37.53392pt too wide) in paragraph at lines 14--14
-\OT1/cmr/m/n/12 Express [[]] is a package obtainable through NPM thatextends th
-e default Node.js HTTP/HTTPS
- []
-
-<images/Thesis_JSON.png, id=344, 417.56pt x 420.57124pt>
+] [15]
+<images/Thesis_JSON.png, id=373, 417.56pt x 420.57124pt>
 File: images/Thesis_JSON.png Graphic file (type png)
 <use images/Thesis_JSON.png>
 Package pdftex.def Info: images/Thesis_JSON.png  used on input line 19.
 (pdftex.def)             Requested size: 289.07999pt x 291.18275pt.
-[15]
+ [16] [17 <./images/Thesis_JSON.png>]
 ! Misplaced alignment tab character &.
 <argument> Socket.io &
                        WebSockets
@@ -664,161 +528,115 @@ l.25 \subsection{Socket.io & WebSockets}
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `alignment tab' on input line 25.
 
-[16 <./images/Thesis_JSON.png>]
-Overfull \hbox (1.26611pt too wide) in paragraph at lines 29--29
-\OT1/cmr/m/n/12 Angular controls the document, it can provide useful features s
-uch as a module-component
- []
-
-
-Overfull \hbox (4.26471pt too wide) in paragraph at lines 32--32
-\OT1/cmr/m/n/12 well with JavaScript and returns JSON-formatted results that ca
-n be immediately accessed
- []
-
-[17]) (bkgrnd_application.tex
-Overfull \hbox (6.49245pt too wide) in paragraph at lines 5--5
-\OT1/cmr/m/n/12 understand the motivations for this project, the reader should 
-have a general understanding
- []
-
-[18]) [19]
+[18]) (bkgrnd_application.tex [19]) [20]
 Chapter 4.
-(objectives.tex [20
+(objectives.tex [21
 
-]
-Overfull \hbox (27.05473pt too wide) in paragraph at lines 9--9
-\OT1/cmr/m/n/12 visualization as possible, without sacrificing responsiveness a
-nd fluidity in the live visualization.
- []
-
-
-Overfull \hbox (3.84665pt too wide) in paragraph at lines 9--9
-\OT1/cmr/m/n/12 Recall our earlier example which discussed a chart showing one 
-thousand points aggregated
- []
-
-[21] [22] [23] [24]
-Overfull \hbox (20.78813pt too wide) in paragraph at lines 24--24
-\OT1/cmr/m/n/12 architecture for generalized web-based data visualization shoul
-d be charting package/platform
- []
-
-[25]) [26]
+] [22] [23] [24] [25] [26]) [27]
 Chapter 5.
-(methods_intro.tex
-Overfull \hbox (22.15895pt too wide) in paragraph at lines 5--5
-\OT1/cmr/m/n/12 The following sections will overview our general-purpose archit
-ecture for web-based interactive
- []
-
-) (methods_server_side.tex
-Overfull \hbox (6.23134pt too wide) in paragraph at lines 5--5
+(methods_intro.tex) (methods_server_side.tex
+Underfull \hbox (badness 1442) in paragraph at lines 5--5
 \OT1/cmr/m/n/12 The server-side architecture relies on one primary abstraction 
-for datapaths, a standardized
+for datapaths, a
  []
 
-[27
+[28
 
 ]
-<images/ServerSideClassDiagram.png, id=436, 795.97375pt x 744.7825pt>
+<images/ServerSideClassDiagram.png, id=463, 795.97375pt x 744.7825pt>
 File: images/ServerSideClassDiagram.png Graphic file (type png)
 <use images/ServerSideClassDiagram.png>
 Package pdftex.def Info: images/ServerSideClassDiagram.png  used on input line 
 8.
 (pdftex.def)             Requested size: 433.62pt x 405.73364pt.
- [28] [29 <./images/ServerSideClassDiagram.png>]
-Overfull \hbox (34.17198pt too wide) in paragraph at lines 17--17
-[]\OT1/cmr/m/n/12 Concerning concrete implementation of this architectural elem
-ent, Beestream implements
- []
-
-[30]
-Overfull \hbox (0.82964pt too wide) in paragraph at lines 20--20
-\OT1/cmr/m/n/12 datapath can draw data from numerous different data channels. A
- data channel represents
- []
-
-[31] [32]
-Overfull \hbox (10.08473pt too wide) in paragraph at lines 26--26
+<images/DatapathDataChannelExample.jpg, id=464, 2773.36125pt x 740.7675pt>
+File: images/DatapathDataChannelExample.jpg Graphic file (type jpg)
+<use images/DatapathDataChannelExample.jpg>
+Package pdftex.def Info: images/DatapathDataChannelExample.jpg  used on input l
+ine 14.
+(pdftex.def)             Requested size: 433.62pt x 115.81245pt.
+LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 16.
+ [29] [30 <./images/ServerSideClassDiagram.png>] [31 <./images/DatapathDataChan
+nelExample.jpg>] [32] [33]
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
 []\OT1/cmr/m/n/12 Beestream's concrete configuration file implementation involv
-es named configuration
+es named
  []
 
-) (methods_data_transmission.tex [33]
-<images/ServerClientHandshake.png, id=465, 807.015pt x 986.68625pt>
+[34]) (methods_data_transmission.tex [35]
+<images/ServerClientHandshake.png, id=498, 807.015pt x 986.68625pt>
 File: images/ServerClientHandshake.png Graphic file (type png)
 <use images/ServerClientHandshake.png>
 Package pdftex.def Info: images/ServerClientHandshake.png  used on input line 9
 .
 (pdftex.def)             Requested size: 289.07999pt x 353.44527pt.
- [34] [35 <./images/ServerClientHandshake.png>]) (methods_client_side.tex
-Overfull \hbox (22.81172pt too wide) in paragraph at lines 6--6
-\OT1/cmr/m/n/12 will overview each feature, discuss the architectural decisions
-, and present our implementation.
+ [36 <./images/ServerClientHandshake.png>]) (methods_client_side.tex [37] [38]
+Underfull \hbox (badness 1478) in paragraph at lines 12--12
+\OT1/cmr/m/n/12 Angular's framework includes constructs for modules and compone
+nts to define
  []
 
-[36] [37]
-Overfull \hbox (17.73558pt too wide) in paragraph at lines 12--12
-[]\OT1/cmr/m/n/12 Beestream's client is implemented using Angular as a client-s
-ide framework. Angular's
- []
-
-[38]
-<images/ClientSide.png, id=490, 1128.215pt x 725.71124pt>
+[39]
+<images/ClientSide.png, id=518, 1128.215pt x 725.71124pt>
 File: images/ClientSide.png Graphic file (type png)
 <use images/ClientSide.png>
 Package pdftex.def Info: images/ClientSide.png  used on input line 16.
 (pdftex.def)             Requested size: 433.62pt x 278.918pt.
- [39 <./images/ClientSide.png>]
-<images/ClientDatasetRequestFlow.png, id=498, 807.015pt x 745.78625pt>
+ [40 <./images/ClientSide.png>]
+<images/ClientDatasetRequestFlow.png, id=527, 807.015pt x 745.78625pt>
 File: images/ClientDatasetRequestFlow.png Graphic file (type png)
 <use images/ClientDatasetRequestFlow.png>
 Package pdftex.def Info: images/ClientDatasetRequestFlow.png  used on input lin
 e 26.
 (pdftex.def)             Requested size: 289.07999pt x 267.15141pt.
-<images/ClientChartUpdateFlow.png, id=499, 807.015pt x 745.78625pt>
+<images/ClientChartUpdateFlow.png, id=528, 807.015pt x 745.78625pt>
 File: images/ClientChartUpdateFlow.png Graphic file (type png)
 <use images/ClientChartUpdateFlow.png>
 Package pdftex.def Info: images/ClientChartUpdateFlow.png  used on input line 3
 3.
 (pdftex.def)             Requested size: 289.07999pt x 267.15141pt.
- [40 <./images/ClientDatasetRequestFlow.png>] [41 <./images/ClientChartUpdateFl
+ [41 <./images/ClientDatasetRequestFlow.png>] [42 <./images/ClientChartUpdateFl
 ow.png>]
-Overfull \hbox (3.57257pt too wide) in paragraph at lines 43--43
+Underfull \hbox (badness 1043) in paragraph at lines 43--43
 \OT1/cmr/m/n/12 In sections 5.4.1 and 5.4.2, we've frequently referenced a char
-t \lifecycle". Our architecture
+t \lifecycle." Our
  []
 
-<images/ClientLifecycle.png, id=511, 807.015pt x 846.16125pt>
+<images/ClientLifecycle.png, id=540, 807.015pt x 846.16125pt>
 File: images/ClientLifecycle.png Graphic file (type png)
 <use images/ClientLifecycle.png>
 Package pdftex.def Info: images/ClientLifecycle.png  used on input line 46.
 (pdftex.def)             Requested size: 289.07999pt x 303.1072pt.
 
-Overfull \hbox (3.6223pt too wide) in paragraph at lines 50--50
+Underfull \hbox (badness 1270) in paragraph at lines 50--50
 []\OT1/cmr/m/n/12 Depending on the charting library, charts can be dynamically 
-generated, populated,
+generated,
  []
 
-
-Overfull \hbox (10.22469pt too wide) in paragraph at lines 50--50
-\OT1/cmr/m/n/12 This is enforced by having each chart component using C3.js imp
-lement the \OT1/cmr/m/it/12 ngAfterViewInit
- []
-
-[42] [43 <./images/ClientLifecycle.png>]) [44]
+[43] [44 <./images/ClientLifecycle.png>]) [45]
 Chapter 6.
-(results_intro.tex) (results_server.tex [45
+(results_intro.tex) (results_application.tex [46
 
-] [46]) (results_client.tex [47]
-[48]
-Overfull \hbox (1.94064pt too wide) in paragraph at lines 13--13
-\OT1/cmr/m/n/12 agnosticism. As such, charting platforms can also be dynamicall
-y and modularly swapped.
- []
+]
+<images/beestream_screenshot.png, id=560, 1907.125pt x 1082.0425pt>
+File: images/beestream_screenshot.png Graphic file (type png)
+<use images/beestream_screenshot.png>
+Package pdftex.def Info: images/beestream_screenshot.png  used on input line 7.
 
-) [49] (thesis.bbl [50
+(pdftex.def)             Requested size: 433.62pt x 246.0247pt.
+<images/beestream_screenshot_annotated.png, id=565, 1907.125pt x 1082.0425pt>
+File: images/beestream_screenshot_annotated.png Graphic file (type png)
+<use images/beestream_screenshot_annotated.png>
+Package pdftex.def Info: images/beestream_screenshot_annotated.png  used on inp
+ut line 14.
+(pdftex.def)             Requested size: 433.62pt x 246.0247pt.
+) [47 <./images/beestream_screenshot.png>] (results_server.tex [48 <./images/be
+estream_screenshot_annotated.png>] [49]) (results_client.tex [50] [51]) [52]
+Chapter 7.
+(concl.tex) [53
+
+] [54] (thesis.bbl [55
 
 ]
 Underfull \hbox (badness 2205) in paragraph at lines 122--126
@@ -826,50 +644,41 @@ Underfull \hbox (badness 2205) in paragraph at lines 122--126
 tion and
  []
 
-) [51] (vita.tex)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 104.
-
-Overfull \hbox (4.91786pt too wide) in paragraph at lines 3--104
-\OT1/cmr/m/n/10.95 from Millers Creek Christian School in May, 2015. The follow
-ing autumn, he entered Appalachian
- []
-
-[52
+) [56] (vita.tex)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 110.
+ [57
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 104.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 110.
  (thesis.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 104.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 104.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 110.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 110.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 0E52BDE333480A381498033847F3A6D7;2696.
+(rerunfilecheck)             Checksum: C5B4150B0F6FBC72DD2B4D4EBF5446AC;2772.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 104.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 110.
  ) 
 Here is how much of TeX's memory you used:
- 9548 strings out of 494864
- 141961 string characters out of 3178184
- 503087 words of memory out of 3000000
- 12920 multiletter control sequences out of 15000+200000
+ 9590 strings out of 494864
+ 142987 string characters out of 3178184
+ 503107 words of memory out of 3000000
+ 12941 multiletter control sequences out of 15000+200000
  9990 words of font info for 36 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 36i,7n,40p,2310b,487s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{\\par\040} has been referenced but does not exist
-, replaced by a fixed one
-
-</home/gurnben/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></home/gurnben/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
-></home/gurnben/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb
-></home/gurnben/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pf
-b></home/gurnben/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti12.p
-fb></home/gurnben/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt12.
-pfb>
-Output written on thesis.pdf (59 pages, 545493 bytes).
+ 36i,8n,40p,2310b,479s stack positions out of 5000i,500n,10000p,200000b,50000s
+</home/gurnben/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.p
+fb></home/gurnben/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.p
+fb></home/gurnben/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.p
+fb></home/gurnben/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb></home/gurnben/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti12
+.pfb></home/gurnben/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt1
+2.pfb>
+Output written on thesis.pdf (66 pages, 935836 bytes).
 PDF statistics:
- 628 PDF objects out of 1000 (max. 8388607)
- 135 named destinations out of 1000 (max. 500000)
- 372 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 685 PDF objects out of 1000 (max. 8388607)
+ 146 named destinations out of 1000 (max. 500000)
+ 395 words of extra memory for PDF output out of 10000 (max. 10000000)
 
