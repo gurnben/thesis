@@ -1,0 +1,57 @@
+%
+% frontmatter.toc
+%
+% This file is maintained manually to add Table of Contents entries for
+% the frontmatter. (Until I can figure out how to make the regular
+% \tableofcontents command do it!)
+% After running latex command, which updates the thesis.toc file, you need to
+% run my custom script toc.sh to get the frontmatter toc entries into the
+% toc file. Then you can pdflatex to generate a pdf with the correct TOC that
+% includes these entries.
+%
+\contentsline {chapter}{Abstract}{iv}{}%
+\contentsline {chapter}{Acknowledgements}{v}{}%
+\contentsline {chapter}{List of Figures}{viii}{}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Related Work}{6}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Background}{14}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Technical Background}{14}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Full Stack Development}{14}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Node.js}{15}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Express}{16}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}JSON}{17}{subsection.3.1.4}%
+\contentsline {subsection}{\numberline {3.1.5}Socket.io & WebSockets}{18}{subsection.3.1.5}%
+\contentsline {subsection}{\numberline {3.1.6}Angular}{18}{subsection.3.1.6}%
+\contentsline {subsection}{\numberline {3.1.7}MongoDB}{19}{subsection.3.1.7}%
+\contentsline {section}{\numberline {3.2}Application Background}{19}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Objectives}{21}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Data Scaling}{21}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Data Sources}{23}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Data Transmission}{24}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Dataset Filtering and Security}{26}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Charting Package Agnosticism}{26}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Dataset Loading and Processing}{27}{section.4.6}%
+\contentsline {chapter}{\numberline {5}Methodology}{28}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Server Side Architecture}{28}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Datapaths}{31}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Data Channels}{33}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Configuration Files}{34}{subsection.5.1.3}%
+\contentsline {section}{\numberline {5.2}Data Transmission}{35}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Server-Client Handshake}{35}{subsection.5.2.1}%
+\contentsline {section}{\numberline {5.3}Client Side Architecture}{37}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Chart Components}{38}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Dataset Request Flow}{41}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Lifecycle Control}{43}{subsection.5.3.3}%
+\contentsline {chapter}{\numberline {6}Results}{46}{chapter.6}%
+\contentsline {section}{\numberline {6.1}BeeStream Application}{46}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Server Side Extension}{48}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Adding a Dataset}{48}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Adding a Datapath}{49}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}New Data Channels/Sources}{50}{subsection.6.2.3}%
+\contentsline {section}{\numberline {6.3}Client Side Extension}{51}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Adding a Chart}{51}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Avoiding Missing Data}{51}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}Adding New Charting Libraries}{52}{subsection.6.3.3}%
+\contentsline {chapter}{\numberline {7}Summary and Future Work}{53}{chapter.7}%
+\contentsline {chapter}{Bibliography}{55}{chapter.7}%
+\contentsline {chapter}{Vita}{57}{chapter*.13}%

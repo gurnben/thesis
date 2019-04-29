@@ -1,0 +1,13 @@
+%
+% results_client.tex
+%
+
+\subsection{Adding a Chart}
+
+The most common avenue of change on the client is charts.  It is very likely that, during the lifetime of a data visualization web application, the developer will want to add, remove, or modify different charts and visualizations.  Our architecture encapsulates this common mode of change using the chart component interface.  If the developer wishes to add or remove a chart, they need only define a new chart component which requests the necessary datasets and draws the desired visualization.  In Beestream and other Angular-based applications, it is also necessary to add this component to the client module and the client driver’s list of imported chart components and template.  Once complete, the new visualization(s) will be drawn whenever the required datasets are available.  Chart can also be modified easily as they are encapsulated within modular components.  This component system also permits some dynamic behavior, allowing the driver to dynamically show/hide different charts while the webpage is loaded.  By encapsulating charts, they can be added, removed, updated, and dynamically shown/hidden. \par
+
+\subsection{Avoiding Missing Data}
+Another inherent feature of our architecture is flexibility towards missing data.  This feature becomes critical when applied to real-world datasets that may be missing data, or when new components are added/removed frequently.  In these situations, it becomes easy for charts to request data that isn’t available. Our client driver can detect what datasets are required to render a chart and omit the chart from the rendering process if they aren’t available.  This is an inherent an necessary adaptability. \par
+
+\subsection{Adding New Charting Libraries}
+Outside of simply adding new charts/visualizations, the developer may want to add and use new charting libraries.  Our architecture set out with a goal of charting platform agnosticism.  As such, charting platforms can also be dynamically and modularly swapped.  To use a new charting library, the developer need only define a new chart component that imports and utilizes that library.  As charts are encapsulated as chart components, the client driver has no knowledge of any changes.  Finally, the developer can also update pre-existing chart components to use new charting libraries without any changes outside of that component. \par
